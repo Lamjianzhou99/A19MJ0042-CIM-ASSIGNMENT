@@ -1,12 +1,12 @@
-# Output OCR from Invoice
+# Output Info extract from Invoice
 Image: Black & White Minimalist Invoice .png                                                  
 Invoice Number: 542187                                                    
 Date: 02.05.2030                                                    
 Amount: $265
 
-# Output OCR from Receipt
+# Output Info extract from Receipt
 {
-  "ocr_type" : "receipts",
+  "ocr_type" : "**receipts**",
   "request_id" : "P_27.125.242.52_lk6lh8nk_ncf",
   "ref_no" : "ocr_python_123",
   "file_name" : "Receipt sample.jpg",
@@ -17,7 +17,7 @@ Amount: $265
   "image_rotation" : -0.012,
   "recognition_completed_on" : 1689581966746,
   "receipts" : [ {
-    "merchant_name" : "Lian Hup Electronics & Electric Sdn Bhd",
+    "merchant_name" : "**Lian Hup Electronics & Electric Sdn Bhd**",
     "merchant_address" : "78, Jalan Pasar, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "merchant_phone" : "+60 3-9221 8927",
     "merchant_website" : null,
@@ -27,7 +27,7 @@ Amount: $265
     "mall" : null,
     "country" : "MY",
     "receipt_no" : "587153-P",
-    "date" : "2023-06-21",
+    "date" : "**2023-06-21**",
     "time" : null,
     "items" : [ {
       "amount" : 88.00,
@@ -67,7 +67,7 @@ Amount: $265
       "unitPrice" : 0.30
     } ],
     "currency" : "MYR",
-    "total" : 96.50,
+    "total" : **96.50**,
     "subtotal" : null,
     "tax" : null,
     "service_charge" : null,
