@@ -1,7 +1,7 @@
 # Output OCR from Invoice
-Image: Black & White Minimalist Invoice .png
-Invoice Number: 542187
-Date: 02.05.2030
+Image: Black & White Minimalist Invoice .png                                                  
+Invoice Number: 542187                                                    
+Date: 02.05.2030                                                    
 Amount: $265
 
 # Output OCR from Receipt
